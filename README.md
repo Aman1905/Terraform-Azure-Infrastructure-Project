@@ -15,4 +15,6 @@
 
 6. Use map for VM size based on the env name
 
-7. Every resource should have tag "modified_on" which should have the value of the current timestamp - YYYY-MM-DD
+7. Every resource should have tag "modified_on" which should have the value of the current timestamp - YYYY-MM-DD  <br /><br />
+
+<img src="./Terraform-azure-infra.png" />
